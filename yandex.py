@@ -51,3 +51,7 @@ with open(full_path_file, '+wb') as f:
 
 def _get_loader():
     ...
+    for i in range(10):
+        ...
+# sadf
+# sdaf
